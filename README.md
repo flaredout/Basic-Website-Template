@@ -30,4 +30,6 @@ body {
 # Credits
 - Flaredout
 - W3Schools
+- Wikipedia
 - HTML
+- CSS
