@@ -1,5 +1,5 @@
 # Website Starter Template
-Created by Flaredout
+A starter template for website.
 ## Usage
 ```html
 <!DOCTYPE html>
