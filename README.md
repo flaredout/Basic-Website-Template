@@ -1,4 +1,6 @@
 # Website Starter Template
+Created by Flaredout
+## Usage
 ```html
 <!DOCTYPE html>
 <html lang="en">
