@@ -1,5 +1,5 @@
 # Webstarter
-Webstarter is a website starter template with HTML standard markup language for website developer.
+Webstarter is a website starter template with some basic HTML (Hypertext Markup Language) and CSS (Cascading Style Sheets) for website developer.
 ## Usage
 ```html
 <!DOCTYPE html>
@@ -9,6 +9,9 @@ Webstarter is a website starter template with HTML standard markup language for 
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+body {
+  font-family: Times New Roman;
+}
 </style>
 </head>
 <body>
