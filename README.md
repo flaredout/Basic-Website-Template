@@ -1,5 +1,5 @@
 # Webstarter
-Webstarter is a website starter template with basic HTML code for website developer.
+Webstarter is a website starter template with basic HTML standard markup language for website developer.
 ## Usage
 ```html
 <!DOCTYPE html>
