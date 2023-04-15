@@ -1,5 +1,5 @@
 # Website Starter Template
-A starter template for website.
+A website starter template for website developer.
 ## Usage
 ```html
 <!DOCTYPE html>
