@@ -24,3 +24,6 @@ A website starter template for website developer.
 </body>
 </html>
 ```
+# Credits
+- Flaredout
+- W3Schools
